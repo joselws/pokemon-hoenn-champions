@@ -7918,10 +7918,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_MIGHTYENA] =
     {
-        .baseHP        = 70,
-        .baseAttack    = 90,
-        .baseDefense   = 70,
-        .baseSpeed     = 70,
+        .baseHP        = 75,
+        .baseAttack    = 95,
+        .baseDefense   = 75,
+        .baseSpeed     = 80,
         .baseSpAttack  = 60,
         .baseSpDefense = 60,
         .types = { TYPE_DARK, TYPE_DARK },
