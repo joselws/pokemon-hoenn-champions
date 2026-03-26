@@ -8730,10 +8730,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     {
         .baseHP        = 170,
         .baseAttack    = 90,
-        .baseDefense   = 45,
+        .baseDefense   = 50,
         .baseSpeed     = 60,
         .baseSpAttack  = 90,
-        .baseSpDefense = 45,
+        .baseSpDefense = 50,
         .types = { TYPE_WATER, TYPE_WATER },
         .catchRate = 60,
         .expYield = 206,
