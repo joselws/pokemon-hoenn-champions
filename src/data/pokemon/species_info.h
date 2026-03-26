@@ -7979,9 +7979,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_LINOONE] =
     {
         .baseHP        = 78,
-        .baseAttack    = 70,
+        .baseAttack    = 80,
         .baseDefense   = 61,
-        .baseSpeed     = 100,
+        .baseSpeed     = 105,
         .baseSpAttack  = 50,
         .baseSpDefense = 61,
         .types = { TYPE_NORMAL, TYPE_NORMAL },
