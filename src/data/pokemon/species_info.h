@@ -8128,12 +8128,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_DUSTOX] =
     {
-        .baseHP        = 60,
+        .baseHP        = 70,
         .baseAttack    = 50,
-        .baseDefense   = 70,
+        .baseDefense   = 80,
         .baseSpeed     = 65,
         .baseSpAttack  = 50,
-        .baseSpDefense = 90,
+        .baseSpDefense = 100,
         .types = { TYPE_BUG, TYPE_POISON },
         .catchRate = 45,
         .expYield = 160,
