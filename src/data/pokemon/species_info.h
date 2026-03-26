@@ -8069,10 +8069,10 @@ const struct SpeciesInfo gSpeciesInfo[] =
     [SPECIES_BEAUTIFLY] =
     {
         .baseHP        = 60,
-        .baseAttack    = 70,
+        .baseAttack    = 80,
         .baseDefense   = 50,
-        .baseSpeed     = 65,
-        .baseSpAttack  = 90,
+        .baseSpeed     = 75,
+        .baseSpAttack  = 100,
         .baseSpDefense = 50,
         .types = { TYPE_BUG, TYPE_FLYING },
         .catchRate = 45,
