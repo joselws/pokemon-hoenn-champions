@@ -9058,12 +9058,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_LUVDISC] =
     {
-        .baseHP        = 43,
+        .baseHP        = 58,
         .baseAttack    = 30,
-        .baseDefense   = 55,
-        .baseSpeed     = 97,
-        .baseSpAttack  = 40,
-        .baseSpDefense = 65,
+        .baseDefense   = 75,
+        .baseSpeed     = 113,
+        .baseSpAttack  = 70,
+        .baseSpDefense = 85,
         .types = { TYPE_WATER, TYPE_WATER },
         .catchRate = 225,
         .expYield = 110,
