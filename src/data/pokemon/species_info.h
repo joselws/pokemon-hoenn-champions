@@ -9118,9 +9118,9 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_CRAWDAUNT] =
     {
-        .baseHP        = 63,
+        .baseHP        = 68,
         .baseAttack    = 120,
-        .baseDefense   = 85,
+        .baseDefense   = 90,
         .baseSpeed     = 55,
         .baseSpAttack  = 100,
         .baseSpDefense = 55,
