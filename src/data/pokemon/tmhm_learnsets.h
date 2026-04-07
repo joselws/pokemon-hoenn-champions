@@ -7958,6 +7958,7 @@ const union {
         .SECRET_POWER = TRUE,
         .REST = TRUE,
         .ATTRACT = TRUE,
+        .LIGHT_SCREEN = TRUE,
         .SURF = TRUE,
         .WATERFALL = TRUE,
         .DIVE = TRUE,

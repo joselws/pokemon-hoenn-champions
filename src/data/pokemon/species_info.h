@@ -9238,12 +9238,12 @@ const struct SpeciesInfo gSpeciesInfo[] =
 
     [SPECIES_SHARPEDO] =
     {
-        .baseHP        = 70,
+        .baseHP        = 80,
         .baseAttack    = 120,
-        .baseDefense   = 40,
-        .baseSpeed     = 95,
-        .baseSpAttack  = 95,
-        .baseSpDefense = 40,
+        .baseDefense   = 45,
+        .baseSpeed     = 100,
+        .baseSpAttack  = 100,
+        .baseSpDefense = 45,
         .types = { TYPE_WATER, TYPE_DARK },
         .catchRate = 60,
         .expYield = 175,
